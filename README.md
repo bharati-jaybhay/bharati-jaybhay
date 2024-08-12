@@ -1,4 +1,3 @@
-
 👋 Hi, I’m @bharati-jaybhay
 👀 I’m interested in application and Java development
 🌱 I’m currently learning Spring Boot
